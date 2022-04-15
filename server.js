@@ -1,6 +1,6 @@
 const http = require('http');
 
-const hostname = 'nodesample-ie921izwc-kalishavali.vercel.app';
+const hostname = 'nodesample.vercel.app';
 const port = 4000;
 
 const server = http.createServer((req,res) => {
